@@ -1,0 +1,22 @@
+{
+  "name": "rainbow-six-siege-settings-panel",
+  "displayName": "Rainbow Six Siege Settings Panel",
+  "programType": "settings-panel",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Control groups",
+    "Display settings",
+    "Keybind reference"
+  ],
+  "topics": [
+    "rainbow-six-siege-settings-panel",
+    "rainbow-six-siege-tools",
+    "rainbow-six-siege-menu",
+    "rainbow-six-siege-settings",
+    "rainbow-six-siege-configs",
+    "rainbow-six-siege-control-groups",
+    "rainbow-six-siege-display-settings"
+  ]
+}
